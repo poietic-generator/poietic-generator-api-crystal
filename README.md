@@ -45,6 +45,21 @@ crystal spec
 4. Push to the branch ( `git push origin my-new-feature` )
 5. Create a new Pull Request
 
-## Contributors
 
-- [glenux](https://github.com/glenux) Glenn Y. Rolland - creator, maintainer
+## Credits
+
+Got questions? Need help? Tweet at [@glenux](http://twitter.com/glenux).
+
+Contributors :
+
+ * Original concept & funding by [Olivier Auber](http://twitter.com/OlivierAuber)
+ * Initial ruby development by [GNUSIDE SAS](http://twitter.com/gnuside)
+ * Project is now maintained by [Glenn Y. Rolland](http://github.com/glenux)
+
+
+## License
+
+Poietic Generator Reloaded is Copyright © 2011-2013 Gnuside.
+It is free software, and may be redistributed under the terms specified in the LICENSE file.
+
+
