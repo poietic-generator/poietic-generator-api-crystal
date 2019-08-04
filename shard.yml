@@ -12,8 +12,8 @@ targets:
   poietic-generator-api-crystal:
     main: src/poietic-generator-api-crystal.cr
 
-  amber:
-    main: lib/amber/src/amber/cli.cr
+  # amber:
+  #   main: lib/amber/src/amber/cli.cr
 
 dependencies:
   amber:
